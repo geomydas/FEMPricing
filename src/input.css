@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@theme {
+  --font-family-karla: Karla, sans-serif;
+  --color-teal: hsl(179, 62%, 43%);
+  --color-lightteal: #4abebd;
+  --color-green: hsl(71, 73%, 54%);
+  --color-lightgray: hsl(204, 43%, 93%);
+  --color-paleblue: hsl(218, 22%, 67%);
+}
